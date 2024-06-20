@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: goldenrod;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+#container {
+  height: 300px;
+  width: 500px;
+  border: 2px solid black;
+  background-color: beige;
+  text-align: center;
+  margin-top: 30px;
+}
+
+#joke-button{
+    cursor: pointer;
+    background-color: aquamarine;
+}
+
+#setup{
+    font-weight: bold;
+    margin-top: 40px;
+}
